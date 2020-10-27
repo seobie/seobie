@@ -43,6 +43,5 @@ I want to be a developer that everyone wants to work with
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x.eob/)](https://www.instagram.com/x.eob/) 
 
-[![email Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dud8828@gmail.com)](mailto:dud8828@gmail.com)mail to:dud8828@gmail.com
-
+[![email Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dud8828@gmail.com)](mailto:dud8828@gmail.com)
 </div>
