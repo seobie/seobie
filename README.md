@@ -28,11 +28,12 @@ If you have any questions, feel free to contact me!
 - React / React Hooks
 - Graph QL / Apollo
 
+<!--
 <div align=left>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyheum)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
+-->
 <div align=left>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seob)](https://velog.io/@seob) 
