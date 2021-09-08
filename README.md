@@ -23,10 +23,15 @@ If you have any questions, feel free to contact me!
 ### Interests
 - JavaScript
 - TypeScript
-- Redux
+- Redux-toolkit
+- Redux-saga
 - Context API
 - React / React Hooks
 - Graph QL / Apollo
+- Nextjs
+- Storybook
+- Jest
+- Cypress
 
 <!--
 <div align=left>
