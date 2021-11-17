@@ -41,7 +41,8 @@ If you have any questions, feel free to contact me!
 -->
 <div align=left>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seob)](https://velog.io/@seob) 
+[![Vlog Badge](https://img.shields.io/badge/-Velog-brihgtGreen?style=flat-square&link=https://velog.io/@seob)](https://velog.io/@seob) 
+[![GitHub Blog Badge](https://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github&link=https://velog.io/@seob)](https://seobie.github.io) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/x.eob/)](https://www.instagram.com/x.eob/) 
 [![email Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yeongseob.dev@gmail.com)](mailto:yeongseob.dev@gmail.com)
 </div>
