@@ -8,7 +8,8 @@
 </div>
 
 ## 👨🏻‍💻 About me
-- Dtime (2020.12~)
+- Pet Friends (2021.12 ~ )
+- Dtime (2020.12 ~ 2021.12)
 - [![email Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:yeongseob.dev@gmail.com)](mailto:yeongseob.dev@gmail.com)
 - [![Vlog Badge](https://img.shields.io/badge/-Velog-11B48A?logo=vimeo&logoColor=white&style=plastic&link=https://velog.io/@seob)](https://velog.io/@seob) (새로운 글은 깃허브 블로그에 올리고 있으며 예전 글은 조금씩 옮길 예정입니다.)
 - [![GitHub Blog Badge](https://img.shields.io/badge/-GitHub%20blog-black?style=plastic&logo=github&link=https://velog.io/@seob)](https://seobie.github.io)
